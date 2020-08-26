@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="/assets/Bitcoin-Twitter-Feed-Logo.png" width="150" alt="Bitcoin Twitter Feed" /></a>
-</p>
+<h2 align="left">Bitcoin-Twitter, together!</h2>
 
-<h1 align="center">Bitcoin-Twitter, together!</h1>
+<kbd>[Create new tweet](../../../new/master/?filename=tweets/<your-path>.tweet)</kbd>
+
 
 
